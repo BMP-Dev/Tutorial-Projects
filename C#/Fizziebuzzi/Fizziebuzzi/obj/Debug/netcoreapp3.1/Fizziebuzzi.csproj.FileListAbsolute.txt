@@ -1,0 +1,12 @@
+C:\Users\grook\Documents\GitHub\Tutorial-Projects\C#\Fizziebuzzi\Fizziebuzzi\bin\Debug\netcoreapp3.1\Fizziebuzzi.exe
+C:\Users\grook\Documents\GitHub\Tutorial-Projects\C#\Fizziebuzzi\Fizziebuzzi\bin\Debug\netcoreapp3.1\Fizziebuzzi.deps.json
+C:\Users\grook\Documents\GitHub\Tutorial-Projects\C#\Fizziebuzzi\Fizziebuzzi\bin\Debug\netcoreapp3.1\Fizziebuzzi.runtimeconfig.json
+C:\Users\grook\Documents\GitHub\Tutorial-Projects\C#\Fizziebuzzi\Fizziebuzzi\bin\Debug\netcoreapp3.1\Fizziebuzzi.runtimeconfig.dev.json
+C:\Users\grook\Documents\GitHub\Tutorial-Projects\C#\Fizziebuzzi\Fizziebuzzi\bin\Debug\netcoreapp3.1\Fizziebuzzi.dll
+C:\Users\grook\Documents\GitHub\Tutorial-Projects\C#\Fizziebuzzi\Fizziebuzzi\bin\Debug\netcoreapp3.1\Fizziebuzzi.pdb
+C:\Users\grook\Documents\GitHub\Tutorial-Projects\C#\Fizziebuzzi\Fizziebuzzi\obj\Debug\netcoreapp3.1\Fizziebuzzi.AssemblyInfoInputs.cache
+C:\Users\grook\Documents\GitHub\Tutorial-Projects\C#\Fizziebuzzi\Fizziebuzzi\obj\Debug\netcoreapp3.1\Fizziebuzzi.AssemblyInfo.cs
+C:\Users\grook\Documents\GitHub\Tutorial-Projects\C#\Fizziebuzzi\Fizziebuzzi\obj\Debug\netcoreapp3.1\Fizziebuzzi.csproj.CoreCompileInputs.cache
+C:\Users\grook\Documents\GitHub\Tutorial-Projects\C#\Fizziebuzzi\Fizziebuzzi\obj\Debug\netcoreapp3.1\Fizziebuzzi.dll
+C:\Users\grook\Documents\GitHub\Tutorial-Projects\C#\Fizziebuzzi\Fizziebuzzi\obj\Debug\netcoreapp3.1\Fizziebuzzi.pdb
+C:\Users\grook\Documents\GitHub\Tutorial-Projects\C#\Fizziebuzzi\Fizziebuzzi\obj\Debug\netcoreapp3.1\Fizziebuzzi.genruntimeconfig.cache

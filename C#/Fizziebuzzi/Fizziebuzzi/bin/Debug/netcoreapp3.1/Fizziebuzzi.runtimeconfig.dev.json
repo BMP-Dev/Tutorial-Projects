@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\grook\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\grook\\.nuget\\packages"
+    ]
+  }
+}
