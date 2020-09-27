@@ -27,7 +27,6 @@ function win(winnerSpan,s_ToInc,uChoice,cChoice) {
   result_div.innerHTML=`${uChoice}${smallUserWord} against
    ${cChoice}${smallCompWord}`;
   if(winnerSpan!=="DRAW"){
-    s_ToInc.s
     winnerSpan.innerHTML =  ++s_ToInc.s;
     if(winnerSpan.id.includes("user")){
       result_div.innerHTML+=". USER WINS.";
